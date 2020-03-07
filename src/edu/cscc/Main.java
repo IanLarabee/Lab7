@@ -5,7 +5,7 @@ import java.util.*;
     6 March 2020
     A program that takes user input, validates it as being one of five options, and plays a game of rock, paper, scissors, lizard, spock against a computer. JavaDoc and unit testing is provided.
  */
-
+ 
 /**
  * Main for Rock, Paper, Scissors, Lizard, Spock
  */
